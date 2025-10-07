@@ -1,0 +1,68 @@
+2025-09-07 21:39:54,214 - INFO - sender:1158774747 receiver:8149980261 action:Started private chat between lonely_fr and test_testy_tester
+2025-09-07 21:40:03,428 - INFO - sender:1158774747 receiver:8149980261 action:Message sent from lonely_fr to test_testy_tester
+2025-09-07 21:40:07,596 - INFO - sender:1158774747 receiver:8149980261 action:Ended private chat between lonely_fr and test_testy_tester
+2025-09-07 21:40:36,020 - INFO - sender:1158774747 receiver:8149980261 action:Started private chat between lonely_fr and test_testy_tester
+2025-09-07 21:40:37,695 - INFO - sender:1158774747 receiver:8149980261 action:Message sent from lonely_fr to test_testy_tester
+2025-09-07 21:40:46,088 - INFO - sender:8149980261 receiver:1158774747 action:Message sent from test_testy_tester to lonely_fr
+2025-09-07 21:40:59,127 - INFO - sender:1158774747 receiver:8149980261 action:Ended private chat between lonely_fr and test_testy_tester
+2025-09-07 21:53:14,959 - INFO - sender:1158774747 receiver:8149980261 action:Silently initiated private chat from lonely_fr to test_testy_tester
+2025-09-07 21:53:29,382 - INFO - sender:1158774747 receiver:8149980261 action:Message sent from lonely_fr to test_testy_tester
+2025-09-07 21:53:47,368 - INFO - sender:8149980261 receiver:1158774747 action:Silently initiated private chat from test_testy_tester to lonely_fr
+2025-09-07 21:53:57,131 - INFO - sender:8149980261 receiver:1158774747 action:Message sent from test_testy_tester to lonely_fr
+2025-09-07 22:00:13,615 - INFO - sender:1158774747 receiver:8149980261 action:Silently initiated private chat from lonely_fr to test_testy_tester
+2025-09-07 22:00:21,068 - INFO - sender:1158774747 receiver:8149980261 action:Message sent from lonely_fr to test_testy_tester
+2025-09-07 22:01:03,244 - INFO - sender:1158774747 receiver:8149980261 action:Ended private chat between lonely_fr and test_testy_tester
+2025-09-07 22:07:18,099 - INFO - sender:1158774747 receiver:8149980261 action:Silently initiated private chat from lonely_fr to test_testy_tester
+2025-09-07 22:07:25,238 - INFO - sender:1158774747 receiver:8149980261 action:Message sent from lonely_fr to test_testy_tester
+2025-09-07 22:07:31,774 - INFO - sender:1158774747 receiver:8149980261 action:Ended private chat between lonely_fr and test_testy_tester
+2025-09-07 23:09:08,543 - INFO - sender:1158774747 receiver:318293666 action:Silently initiated private chat from lonely_fr to doomchanich
+2025-09-07 23:09:26,165 - INFO - sender:1158774747 receiver:318293666 action:Message sent from lonely_fr to doomchanich
+2025-09-07 23:13:59,726 - INFO - sender:1158774747 receiver:318293666 action:Message sent from lonely_fr to doomchanich
+2025-09-07 23:14:27,501 - INFO - sender:1158774747 receiver:318293666 action:Message sent from lonely_fr to doomchanich
+2025-09-07 23:15:21,128 - INFO - sender:1158774747 receiver:318293666 action:Message sent from lonely_fr to doomchanich
+2025-09-07 23:26:08,551 - INFO - sender:318293666 receiver:1158774747 action:Reply to last sender from doomchanich to lonely_fr
+2025-09-07 23:26:32,765 - INFO - sender:1158774747 receiver:318293666 action:Message sent from lonely_fr to doomchanich
+2025-09-07 23:26:58,278 - INFO - sender:1158774747 receiver:318293666 action:Reply to last sender from lonely_fr to doomchanich
+2025-09-07 23:27:00,062 - INFO - sender:318293666 receiver:1158774747 action:Reply to last sender from doomchanich to lonely_fr
+2025-09-07 23:27:17,252 - INFO - sender:318293666 receiver:1158774747 action:Reply to last sender from doomchanich to lonely_fr
+2025-09-07 23:27:20,677 - INFO - sender:1158774747 receiver:318293666 action:Message sent from lonely_fr to doomchanich
+2025-09-07 23:27:41,517 - INFO - sender:1158774747 receiver:318293666 action:Message sent from lonely_fr to doomchanich
+2025-09-07 23:27:51,037 - INFO - sender:1158774747 receiver:318293666 action:Message sent from lonely_fr to doomchanich
+2025-09-07 23:28:14,861 - INFO - sender:1158774747 receiver:8149980261 action:Silently initiated private chat from lonely_fr to test_testy_tester
+2025-09-07 23:28:22,976 - INFO - sender:1158774747 receiver:318293666 action:Silently initiated private chat from lonely_fr to doomchanich
+2025-09-07 23:28:31,841 - INFO - sender:1158774747 receiver:318293666 action:Message sent from lonely_fr to doomchanich
+2025-09-07 23:28:36,071 - INFO - sender:1158774747 receiver:318293666 action:Ended private chat between lonely_fr and doomchanich
+2025-09-07 23:28:51,551 - INFO - sender:318293666 receiver:1158774747 action:Reply to last sender from doomchanich to lonely_fr
+2025-09-07 23:29:15,642 - INFO - sender:1158774747 receiver:318293666 action:Reply to last sender from lonely_fr to doomchanich
+2025-09-07 23:30:14,145 - INFO - sender:318293666 receiver:1158774747 action:Reply to last sender from doomchanich to lonely_fr
+2025-09-07 23:31:54,993 - INFO - sender:1158774747 receiver:318293666 action:Reply to last sender from lonely_fr to doomchanich
+2025-09-07 23:33:56,156 - INFO - sender:318293666 receiver:1158774747 action:Silently initiated private chat from doomchanich to lonely_fr
+2025-09-07 23:34:06,648 - INFO - sender:318293666 receiver:1158774747 action:Message sent from doomchanich to lonely_fr
+2025-09-07 23:34:10,935 - INFO - sender:318293666 receiver:1158774747 action:Message sent from doomchanich to lonely_fr
+2025-09-07 23:34:14,742 - INFO - sender:318293666 receiver:1158774747 action:Message sent from doomchanich to lonely_fr
+2025-09-07 23:34:29,843 - INFO - sender:1158774747 receiver:318293666 action:Reply to last sender from lonely_fr to doomchanich
+2025-09-07 23:34:39,109 - INFO - sender:318293666 receiver:1158774747 action:Message sent from doomchanich to lonely_fr
+2025-09-07 23:35:16,019 - INFO - sender:318293666 receiver:1158774747 action:Message sent from doomchanich to lonely_fr
+2025-09-07 23:35:47,906 - INFO - sender:1158774747 receiver:318293666 action:Reply to last sender from lonely_fr to doomchanich
+2025-09-07 23:42:08,630 - INFO - sender:318293666 receiver:1158774747 action:Ended private chat between doomchanich and lonely_fr
+2025-09-08 22:05:30,186 - INFO - sender:1158774747 receiver:498422735 action:Silently initiated private chat from lonely_fr to perolya
+2025-09-08 22:05:36,084 - INFO - sender:1158774747 receiver:498422735 action:Message sent from lonely_fr to perolya
+2025-09-08 22:56:19,270 - INFO - sender:1158774747 receiver:498422735 action:Ended private chat between lonely_fr and perolya
+2025-09-20 18:35:55,594 - INFO - sender:1158774747 receiver:865577081 action:Silently initiated private chat from lonely_fr to maaximgl
+2025-09-20 18:37:08,444 - INFO - sender:1158774747 receiver:865577081 action:Message sent from lonely_fr to maaximgl
+2025-09-20 18:53:22,340 - INFO - sender:1158774747 receiver:865577081 action:Message sent from lonely_fr to maaximgl
+2025-09-20 18:53:42,674 - INFO - sender:1158774747 receiver:865577081 action:Message sent from lonely_fr to maaximgl
+2025-09-20 22:26:51,197 - INFO - sender:1158774747 receiver:865577081 action:Ended private chat between lonely_fr and maaximgl
+2025-09-23 19:59:49,192 - INFO - sender:1158774747 receiver:639946226 action:Silently initiated private chat from lonely_fr to youngeeer
+2025-09-23 20:01:11,922 - INFO - sender:1158774747 receiver:639946226 action:Message sent from lonely_fr to youngeeer
+2025-09-23 20:01:52,042 - INFO - sender:1158774747 receiver:639946226 action:Message sent from lonely_fr to youngeeer
+2025-09-25 00:34:36,007 - INFO - sender:1158774747 receiver:476840851 action:Silently initiated private chat from lonely_fr to mefisto057
+2025-09-25 00:34:47,868 - INFO - sender:1158774747 receiver:476840851 action:Message sent from lonely_fr to mefisto057
+2025-09-30 17:54:46,121 - INFO - sender:1158774747 receiver:5440478945 action:Silently initiated private chat from lonely_fr to xikava
+2025-09-30 17:55:10,741 - INFO - sender:1158774747 receiver:5440478945 action:Message sent from lonely_fr to xikava
+2025-09-30 18:16:43,819 - INFO - sender:1158774747 receiver:5440478945 action:Silently initiated private chat from lonely_fr to xikava
+2025-09-30 18:16:58,739 - INFO - sender:1158774747 receiver:5440478945 action:Message sent from lonely_fr to xikava
+2025-09-30 18:20:06,526 - INFO - sender:1158774747 receiver:5440478945 action:Message sent from lonely_fr to xikava
+2025-09-30 18:20:24,298 - INFO - sender:1158774747 receiver:5440478945 action:Ended private chat between lonely_fr and xikava
+2025-10-03 16:42:54,793 - INFO - sender:1158774747 receiver:1080594714 action:Silently initiated private chat from lonely_fr to fokrok
+2025-10-03 16:43:16,445 - INFO - sender:1158774747 receiver:1080594714 action:Message sent from lonely_fr to fokrok

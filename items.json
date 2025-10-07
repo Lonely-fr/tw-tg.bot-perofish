@@ -1,0 +1,432 @@
+{
+  "items": {
+    "accessories": {
+      "magic_wand": {
+        "dname": "Magic Wand",
+        "cost": 450
+      },
+      "bracer": {
+        "dname": "Bracer",
+        "cost": 505
+      },
+      "null_talisman": {
+        "dname": "Null Talisman",
+        "cost": 505
+      },
+      "wraith_band": {
+        "dname": "Wraith Band",
+        "cost": 505
+      },
+      "soul_ring": {
+        "dname": "Soul Ring",
+        "cost": 805
+      },
+      "orb_of_corrosion": {
+        "dname": "Orb of Corrosion",
+        "cost": 875
+      },
+      "falcon_blade": {
+        "dname": "Falcon Blade",
+        "cost": 1125
+      },
+      "perseverance": {
+        "dname": "Perseverance",
+        "cost": 1400
+      },
+      "power_treads": {
+        "dname": "Power Treads",
+        "cost": 1400
+      },
+      "phase_boots": {
+        "dname": "Phase Boots",
+        "cost": 1500
+      },
+      "oblivion_staff": {
+        "dname": "Oblivion Staff",
+        "cost": 1625
+      },
+      "mask_of_madness": {
+        "dname": "Mask of Madness",
+        "cost": 1900
+      },
+      "hand_of_midas": {
+        "dname": "Hand of Midas",
+        "cost": 2200
+      },
+      "boots_of_travel": {
+        "dname": "Boots of Travel",
+        "cost": 2500
+      },
+      "helm_of_the_dominator": {
+        "dname": "Helm of the Dominator",
+        "cost": 2625
+      },
+      "moon_shard": {
+        "dname": "Moon Shard",
+        "cost": 4000
+      },
+      "helm_of_the_overlord": {
+        "dname": "Helm of the Overlord",
+        "cost": 5725
+      }
+    },
+    "support": {
+      "buckler": {
+        "dname": "Buckler",
+        "cost": 425
+      },
+      "headdress": {
+        "dname": "Headdress",
+        "cost": 425
+      },
+      "ring_of_basilius": {
+        "dname": "Ring of Basilius",
+        "cost": 425
+      },
+      "urn_of_shadows": {
+        "dname": "Urn of Shadows",
+        "cost": 880
+      },
+      "tranquil_boots": {
+        "dname": "Tranquil Boots",
+        "cost": 925
+      },
+      "arcane_boots": {
+        "dname": "Arcane Boots",
+        "cost": 1300
+      },
+      "pavise": {
+        "dname": "Pavise",
+        "cost": 1400
+      },
+      "drum_of_endurance": {
+        "dname": "Drum of Endurance",
+        "cost": 1700
+      },
+      "mekansm": {
+        "dname": "Mekansm",
+        "cost": 1875
+      },
+      "vladmirs_offering": {
+        "dname": "Vladmir's Offering",
+        "cost": 2200
+      },
+      "holy_locket": {
+        "dname": "Holy Locket",
+        "cost": 2350
+      },
+      "spirit_vessel": {
+        "dname": "Spirit Vessel",
+        "cost": 2780
+      },
+      "pipe_of_insight": {
+        "dname": "Pipe of Insight",
+        "cost": 3725
+      },
+      "boots_of_bearing": {
+        "dname": "Boots of Bearing",
+        "cost": 4125
+      },
+      "guardian_greaves": {
+        "dname": "Guardian Greaves",
+        "cost": 5050
+      },
+      "parasma": {
+        "dname": "Parasma",
+        "cost": 5975
+      }
+    },
+    "magic": {
+      "veil_of_discord": {
+        "dname": "Veil of Discord",
+        "cost": 1725
+      },
+      "glimmer_cape": {
+        "dname": "Glimmer Cape",
+        "cost": 2150
+      },
+      "force_staff": {
+        "dname": "Force Staff",
+        "cost": 2200
+      },
+      "rod_of_atos": {
+        "dname": "Rod of Atos",
+        "cost": 2250
+      },
+      "aether_lens": {
+        "dname": "Aether Lens",
+        "cost": 2275
+      },
+      "euls_scepter_of_divinity": {
+        "dname": "Eul's Scepter of Divinity",
+        "cost": 2600
+      },
+      "solar_crest": {
+        "dname": "Solar Crest",
+        "cost": 2700
+      },
+      "witch_blade": {
+        "dname": "Witch Blade",
+        "cost": 2775
+      },
+      "dagon": {
+        "dname": "Dagon",
+        "cost": 2850
+      },
+      "orchid_malevolence": {
+        "dname": "Orchid Malevolence",
+        "cost": 3275
+      },
+      "aghanims_scepter": {
+        "dname": "Aghanim's Scepter",
+        "cost": 4200
+      },
+      "octarine_core": {
+        "dname": "Octarine Core",
+        "cost": 4800
+      },
+      "refresher_orb": {
+        "dname": "Refresher Orb",
+        "cost": 5000
+      },
+      "scythe_of_vyse": {
+        "dname": "Scythe of Vyse",
+        "cost": 5200
+      },
+      "aghanims_blessing": {
+        "dname": "Aghanim's Blessing",
+        "cost": 5800
+      },
+      "gleipnir": {
+        "dname": "Gleipnir",
+        "cost": 5850
+      },
+      "wind_waker": {
+        "dname": "Wind Waker",
+        "cost": 6700
+      }
+    },
+    "armor": {
+      "vanguard": {
+        "dname": "Vanguard",
+        "cost": 1700
+      },
+      "blade_mail": {
+        "dname": "Blade Mail",
+        "cost": 2100
+      },
+      "aeon_disk": {
+        "dname": "Aeon Disk",
+        "cost": 3000
+      },
+      "soul_booster": {
+        "dname": "Soul Booster",
+        "cost": 3000
+      },
+      "crimson_guard": {
+        "dname": "Crimson Guard",
+        "cost": 3600
+      },
+      "eternal_shroud": {
+        "dname": "Eternal Shroud",
+        "cost": 3600
+      },
+      "lotus_orb": {
+        "dname": "Lotus Orb",
+        "cost": 3600
+      },
+      "black_king_bar": {
+        "dname": "Black King Bar",
+        "cost": 4050
+      },
+      "bloodstone": {
+        "dname": "Bloodstone",
+        "cost": 4400
+      },
+      "hurricane_pike": {
+        "dname": "Hurricane Pike",
+        "cost": 4450
+      },
+      "manta_style": {
+        "dname": "Manta Style",
+        "cost": 4600
+      },
+      "linkens_sphere": {
+        "dname": "Linken's Sphere",
+        "cost": 4800
+      },
+      "assault_cuirass": {
+        "dname": "Assault Cuirass",
+        "cost": 5125
+      },
+      "shivas_guard": {
+        "dname": "Shiva's Guard",
+        "cost": 5175
+      },
+      "heart_of_tarrasque": {
+        "dname": "Heart of Tarrasque",
+        "cost": 5200
+      }
+    },
+    "weapons": {
+      "crystalys": {
+        "dname": "Crystalys",
+        "cost": 2000
+      },
+      "armlet_of_mordiggian": {
+        "dname": "Armlet of Mordiggian",
+        "cost": 2500
+      },
+      "meteor_hammer": {
+        "dname": "Meteor Hammer",
+        "cost": 2850
+      },
+      "skull_basher": {
+        "dname": "Skull Basher",
+        "cost": 2875
+      },
+      "shadow_blade": {
+        "dname": "Shadow Blade",
+        "cost": 3000
+      },
+      "desolator": {
+        "dname": "Desolator",
+        "cost": 3500
+      },
+      "battle_fury": {
+        "dname": "Battle Fury",
+        "cost": 4100
+      },
+      "nullifier": {
+        "dname": "Nullifier",
+        "cost": 4375
+      },
+      "monkey_king_bar": {
+        "dname": "Monkey King Bar",
+        "cost": 4700
+      },
+      "revenants_brooch": {
+        "dname": "Revenant's Brooch",
+        "cost": 4900
+      },
+      "daedalus": {
+        "dname": "Daedalus",
+        "cost": 5100
+      },
+      "ethereal_blade": {
+        "dname": "Ethereal Blade",
+        "cost": 5375
+      },
+      "butterfly": {
+        "dname": "Butterfly",
+        "cost": 5450
+      },
+      "silver_edge": {
+        "dname": "Silver Edge",
+        "cost": 5450
+      },
+      "divine_rapier": {
+        "dname": "Divine Rapier",
+        "cost": 5600
+      },
+      "radiance": {
+        "dname": "Radiance",
+        "cost": 5700
+      },
+      "disperser": {
+        "dname": "Disperser",
+        "cost": 6100
+      },
+      "abyssal_blade": {
+        "dname": "Abyssal Blade",
+        "cost": 6250
+      },
+      "bloodthorn": {
+        "dname": "Bloodthorn",
+        "cost": 6825
+      }
+    },
+    "artifacts": {
+      "dragon_lance": {
+        "dname": "Dragon Lance",
+        "cost": 1900
+      },
+      "kaya": {
+        "dname": "Kaya",
+        "cost": 2100
+      },
+      "sange": {
+        "dname": "Sange",
+        "cost": 2100
+      },
+      "yasha": {
+        "dname": "Yasha",
+        "cost": 2100
+      },
+      "phylactery": {
+        "dname": "Phylactery",
+        "cost": 2375
+      },
+      "diffusal_blade": {
+        "dname": "Diffusal Blade",
+        "cost": 2500
+      },
+      "echo_sabre": {
+        "dname": "Echo Sabre",
+        "cost": 2700
+      },
+      "mage_slayer": {
+        "dname": "Mage Slayer",
+        "cost": 2825
+      },
+      "maelstrom": {
+        "dname": "Maelstrom",
+        "cost": 2950
+      },
+      "heavens_halberd": {
+        "dname": "Heaven's Halberd",
+        "cost": 3550
+      },
+      "sange_and_yasha": {
+        "dname": "Sange and Yasha",
+        "cost": 4000
+      },
+      "kaya_and_sange": {
+        "dname": "Kaya and Sange",
+        "cost": 4200
+      },
+      "yasha_and_kaya": {
+        "dname": "Yasha and Kaya",
+        "cost": 4200
+      },
+      "eye_of_skadi": {
+        "dname": "Eye of Skadi",
+        "cost": 4550
+      },
+      "harpoon": {
+        "dname": "Harpoon",
+        "cost": 4700
+      },
+      "satanic": {
+        "dname": "Satanic",
+        "cost": 5050
+      },
+      "mjollnir": {
+        "dname": "Mjollnir",
+        "cost": 5500
+      },
+      "arcane_blink": {
+        "dname": "Arcane Blink",
+        "cost": 6800
+      },
+      "overwhelming_blink": {
+        "dname": "Overwhelming Blink",
+        "cost": 6800
+      },
+      "swift_blink": {
+        "dname": "Swift Blink",
+        "cost": 6800
+      }
+    }
+  }
+}
